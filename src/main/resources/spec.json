@@ -1,0 +1,14 @@
+[
+  {
+    "operation": "shift",
+    "spec": {
+      "firstName": "name.first",
+      "lastName": "name.last",
+      "address": {
+        "street": "address.street",
+        "city": "address.city",
+        "zip": "address.zip"
+      }
+    }
+  }
+]
